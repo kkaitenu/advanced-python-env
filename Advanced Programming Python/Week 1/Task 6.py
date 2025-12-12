@@ -8,7 +8,8 @@ match activity:
     case '*':
         print(a * b)
     case '/':
-        print(a / b)
+        if b == 0:
+            print("You can't divide by zero")
     case '-':
         print(a - b)
     case '%':
