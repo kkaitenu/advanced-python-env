@@ -13,3 +13,7 @@ def all_eq(lst):
         result.append(s + "_" * (max_len - len(s)))
 
     return result
+
+b = input()
+
+all_eq(b)
