@@ -1,7 +1,6 @@
-Знаешь почему
-ябогатый молодой
-знаешь почемуууу
-100 лямов на ладонь
-знаишь почему
-мой сикрет пипец прастой
-просто я делаю что хочу
+Assignment 5. Working with Files, Modules, and Advanced OOP 
+Deadline: 13.01.26 
+• Each task in its own .py file  
+• All completed task files must be pushed to the designated GitHub repository. 
+• Assessment: Successful submission requires GitHub push and defense  
+Part 1: Working with Files and Modules 

@@ -1,5 +1,3 @@
-# oop_students.py
-
 # ===== 1. Класс Person =====
 class Person:
     def __init__(self, name, age):
