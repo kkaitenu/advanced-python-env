@@ -1,23 +1,41 @@
-Total lines: 7
-Total words: 21
+Total lines: 6
+Total words: 48
 
 Word frequency:
-знаешь: 2
-почему: 2
-ябогатый: 1
-молодой: 1
-почемуууу: 1
-100: 1
-лямов: 1
-на: 1
-ладонь: 1
-знаишь: 1
-мой: 1
-сикрет: 1
-пипец: 1
-прастой: 1
-просто: 1
-я: 1
-делаю: 1
-что: 1
-хочу: 1
+files: 3
+and: 3
+•: 3
+working: 2
+with: 2
+modules: 2
+task: 2
+github: 2
+assignment: 1
+5: 1
+advanced: 1
+oop: 1
+deadline: 1
+130126: 1
+each: 1
+in: 1
+its: 1
+own: 1
+py: 1
+file: 1
+all: 1
+completed: 1
+must: 1
+be: 1
+pushed: 1
+to: 1
+the: 1
+designated: 1
+repository: 1
+assessment: 1
+successful: 1
+submission: 1
+requires: 1
+push: 1
+defense: 1
+part: 1
+1: 1
