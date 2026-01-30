@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16584fae-415d-4979-9dc1-f95f192409e9" name="Changes" comment="assignment week 6" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dyess" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kkaitenu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kkaitenu/advanced-python-env&quot;,
+    &quot;accountId&quot;: &quot;39f3f873-a604-4d1e-bf7c-d4c73fb35f56&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="36ezI61UGfo1iAS6ZdSGBZLsRAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.PythonProject1.executor": "Run",
+    "Django tests.Test: .executor": "Run",
+    "Django tests.Test: recipe_site.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Assignment 1.executor": "Run",
+    "Python.Practice 1.executor": "Run",
+    "Python.Practice 2.executor": "Run",
+    "Python.Practice 4.executor": "Run",
+    "Python.Practice 5.executor": "Run",
+    "Python.Practice 7.executor": "Run",
+    "Python.Task 1.executor": "Run",
+    "Python.Task 2.executor": "Run",
+    "Python.Task 3.executor": "Run",
+    "Python.Task 4.executor": "Run",
+    "Python.Task 5.executor": "Run",
+    "Python.Task 6.executor": "Run",
+    "Python.Task 7.executor": "Run",
+    "Python.Task 8.executor": "Run",
+    "Python.Task 9.executor": "Run",
+    "Python.analyze_text.py.executor": "Run",
+    "Python.bank account.executor": "Run",
+    "Python.employee and manager.executor": "Run",
+    "Python.oopcode.executor": "Run",
+    "Python.practice.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dyess\OneDrive\Рабочий стол\Проекты\PythonProject1\Advanced Programming Python\Week 6" />
+      <recent name="C:\Users\dyess\OneDrive\Рабочий стол\Проекты\PythonProject1\Advanced Programming Python\Week 6\Task 1" />
+      <recent name="C:\Users\dyess\OneDrive\Рабочий стол\Проекты\PythonProject1\Advanced Programming Python\Week 1\Practice\Week 1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.analyze_text.py">
+    <configuration name="Test: recipe_site" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipe_site" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analyze_text.py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 1/analyze_text.py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bank account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 5/bank account.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="employee and manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 4/employee and manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oopcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 3/oopcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PythonProject1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="recipe_site.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.analyze_text.py" />
+        <item itemvalue="Python.oopcode" />
+        <item itemvalue="Python.employee and manager" />
+        <item itemvalue="Python.bank account" />
+        <item itemvalue="Django tests.Test: recipe_site" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16584fae-415d-4979-9dc1-f95f192409e9" name="Changes" comment="" />
+      <created>1765381741449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765381741449</updated>
+      <workItem from="1765381742600" duration="1266000" />
+      <workItem from="1765535926682" duration="3230000" />
+      <workItem from="1765539821874" duration="3023000" />
+      <workItem from="1766140104165" duration="4769000" />
+      <workItem from="1766438533125" duration="786000" />
+      <workItem from="1766748102112" duration="3889000" />
+      <workItem from="1767096224605" duration="4834000" />
+      <workItem from="1767545246510" duration="4536000" />
+      <workItem from="1767942695352" duration="2146000" />
+      <workItem from="1767953240116" duration="3259000" />
+      <workItem from="1768311245334" duration="4106000" />
+      <workItem from="1768324414857" duration="1337000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765382900708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765382900708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765539595456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765539595456</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765539972748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765539972748</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765540149865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765540149865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765540523735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765540523735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765540586161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765540586161</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765540720211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765540720211</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765540754764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765540754764</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765541151366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765541151366</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1765541563080</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765541563080</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1766439294837</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1766439294837</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit: week-1 tasks created">
+      <option name="closed" value="true" />
+      <created>1767100681173</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767100681173</updated>
+    </task>
+    <task id="LOCAL-00013" summary="assignment week 6">
+      <option name="closed" value="true" />
+      <created>1768324678284</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768324678284</updated>
+    </task>
+    <task id="LOCAL-00014" summary="assignment week 6">
+      <option name="closed" value="true" />
+      <created>1768325090491</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768325090491</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6d1af023-31b3-437e-b638-76382b44c73f" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6d1af023-31b3-437e-b638-76382b44c73f">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: week-1 tasks created" />
+    <MESSAGE value="Initial commit: week" />
+    <MESSAGE value="Initial commit: Django project, recipe sharing website by danial yessimov" />
+    <MESSAGE value="assignment" />
+    <MESSAGE value="assignment week 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment week 6" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_1.coverage" NAME="Task 1 Coverage Results" MODIFIED="1767097674540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 3" />
+    <SUITE FILE_PATH="coverage/PythonProject1$oopcode.coverage" NAME="oopcode Coverage Results" MODIFIED="1768325471459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 3" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_7.coverage" NAME="Task 7 Coverage Results" MODIFIED="1766752038207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_4.coverage" NAME="Task 4 Coverage Results" MODIFIED="1766751744854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$analyze_text_py.coverage" NAME="analyze_text.py Coverage Results" MODIFIED="1768325473104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 1" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Test__.coverage" NAME="Test:  Coverage Results" MODIFIED="1767957148506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Practice_4.coverage" NAME="Practice 4 Coverage Results" MODIFIED="1765538897317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 1/Practice" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Practice_1.coverage" NAME="Practice 1 Coverage Results" MODIFIED="1766140293703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$bank_account.coverage" NAME="bank account Coverage Results" MODIFIED="1768325463626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 5" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_8.coverage" NAME="Task 8 Coverage Results" MODIFIED="1766752111941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Practice_7.coverage" NAME="Practice 7 Coverage Results" MODIFIED="1766146212837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_3.coverage" NAME="Task 3 Coverage Results" MODIFIED="1766751652573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$practice.coverage" NAME="practice Coverage Results" MODIFIED="1767955240237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Practice" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Test__recipe_site.coverage" NAME="Test: recipe_site Coverage Results" MODIFIED="1768311481000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_6.coverage" NAME="Task 6 Coverage Results" MODIFIED="1766752003712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Practice_5.coverage" NAME="Practice 5 Coverage Results" MODIFIED="1765539244954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 1/Practice" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Assignment_1.coverage" NAME="Assignment 1 Coverage Results" MODIFIED="1765382800152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 1" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_2.coverage" NAME="Task 2 Coverage Results" MODIFIED="1766751510416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_5.coverage" NAME="Task 5 Coverage Results" MODIFIED="1766751810452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+    <SUITE FILE_PATH="coverage/PythonProject1$employee_and_manager.coverage" NAME="employee and manager Coverage Results" MODIFIED="1768325469183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 6/Task 4" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Task_9.coverage" NAME="Task 9 Coverage Results" MODIFIED="1765541549289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 1" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Practice_2.coverage" NAME="Practice 2 Coverage Results" MODIFIED="1766140450171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced Programming Python/Week 2" />
+  </component>
+</project>
